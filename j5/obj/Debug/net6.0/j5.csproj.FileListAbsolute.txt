@@ -1,0 +1,15 @@
+X:\GB\jigurda\j5\bin\Debug\net6.0\j5.exe
+X:\GB\jigurda\j5\bin\Debug\net6.0\j5.deps.json
+X:\GB\jigurda\j5\bin\Debug\net6.0\j5.runtimeconfig.json
+X:\GB\jigurda\j5\bin\Debug\net6.0\j5.dll
+X:\GB\jigurda\j5\bin\Debug\net6.0\j5.pdb
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.csproj.AssemblyReference.cache
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.GeneratedMSBuildEditorConfig.editorconfig
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.AssemblyInfoInputs.cache
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.AssemblyInfo.cs
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.csproj.CoreCompileInputs.cache
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.dll
+X:\GB\jigurda\j5\obj\Debug\net6.0\refint\j5.dll
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.pdb
+X:\GB\jigurda\j5\obj\Debug\net6.0\j5.genruntimeconfig.cache
+X:\GB\jigurda\j5\obj\Debug\net6.0\ref\j5.dll

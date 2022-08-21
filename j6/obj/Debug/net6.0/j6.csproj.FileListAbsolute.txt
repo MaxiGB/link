@@ -1,0 +1,15 @@
+X:\GB\jigurda\j6\bin\Debug\net6.0\j6.exe
+X:\GB\jigurda\j6\bin\Debug\net6.0\j6.deps.json
+X:\GB\jigurda\j6\bin\Debug\net6.0\j6.runtimeconfig.json
+X:\GB\jigurda\j6\bin\Debug\net6.0\j6.dll
+X:\GB\jigurda\j6\bin\Debug\net6.0\j6.pdb
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.csproj.AssemblyReference.cache
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.GeneratedMSBuildEditorConfig.editorconfig
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.AssemblyInfoInputs.cache
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.AssemblyInfo.cs
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.csproj.CoreCompileInputs.cache
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.dll
+X:\GB\jigurda\j6\obj\Debug\net6.0\refint\j6.dll
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.pdb
+X:\GB\jigurda\j6\obj\Debug\net6.0\j6.genruntimeconfig.cache
+X:\GB\jigurda\j6\obj\Debug\net6.0\ref\j6.dll
