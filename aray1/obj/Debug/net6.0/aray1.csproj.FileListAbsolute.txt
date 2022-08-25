@@ -1,0 +1,15 @@
+X:\GB\jigurda\aray1\bin\Debug\net6.0\aray1.exe
+X:\GB\jigurda\aray1\bin\Debug\net6.0\aray1.deps.json
+X:\GB\jigurda\aray1\bin\Debug\net6.0\aray1.runtimeconfig.json
+X:\GB\jigurda\aray1\bin\Debug\net6.0\aray1.dll
+X:\GB\jigurda\aray1\bin\Debug\net6.0\aray1.pdb
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.csproj.AssemblyReference.cache
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.GeneratedMSBuildEditorConfig.editorconfig
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.AssemblyInfoInputs.cache
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.AssemblyInfo.cs
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.csproj.CoreCompileInputs.cache
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.dll
+X:\GB\jigurda\aray1\obj\Debug\net6.0\refint\aray1.dll
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.pdb
+X:\GB\jigurda\aray1\obj\Debug\net6.0\aray1.genruntimeconfig.cache
+X:\GB\jigurda\aray1\obj\Debug\net6.0\ref\aray1.dll
