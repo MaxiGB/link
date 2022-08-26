@@ -1,0 +1,15 @@
+X:\GB\jigurda\array2\bin\Debug\net6.0\array2.exe
+X:\GB\jigurda\array2\bin\Debug\net6.0\array2.deps.json
+X:\GB\jigurda\array2\bin\Debug\net6.0\array2.runtimeconfig.json
+X:\GB\jigurda\array2\bin\Debug\net6.0\array2.dll
+X:\GB\jigurda\array2\bin\Debug\net6.0\array2.pdb
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.csproj.AssemblyReference.cache
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.GeneratedMSBuildEditorConfig.editorconfig
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.AssemblyInfoInputs.cache
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.AssemblyInfo.cs
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.csproj.CoreCompileInputs.cache
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.dll
+X:\GB\jigurda\array2\obj\Debug\net6.0\refint\array2.dll
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.pdb
+X:\GB\jigurda\array2\obj\Debug\net6.0\array2.genruntimeconfig.cache
+X:\GB\jigurda\array2\obj\Debug\net6.0\ref\array2.dll
