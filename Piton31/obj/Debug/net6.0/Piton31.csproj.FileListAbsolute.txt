@@ -1,0 +1,5 @@
+X:\GB\jigurda\Piton31\obj\Debug\net6.0\Piton31.csproj.AssemblyReference.cache
+X:\GB\jigurda\Piton31\obj\Debug\net6.0\Piton31.GeneratedMSBuildEditorConfig.editorconfig
+X:\GB\jigurda\Piton31\obj\Debug\net6.0\Piton31.AssemblyInfoInputs.cache
+X:\GB\jigurda\Piton31\obj\Debug\net6.0\Piton31.AssemblyInfo.cs
+X:\GB\jigurda\Piton31\obj\Debug\net6.0\Piton31.csproj.CoreCompileInputs.cache
